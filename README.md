@@ -85,4 +85,4 @@ story(3)  # 生成包含3次遭遇的地牢探险故事
 - 正方形和楼梯生成仅接受正整数作为大小参数
 - 若`stranger_structure.txt`文件不存在，神秘陌生人的对话将无法正常生成
 
-​	（INFO1110课程项目，Readme由AI生成）
+​	（USYD INFO1110课程项目，Readme由AI生成）
